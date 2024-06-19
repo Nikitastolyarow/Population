@@ -1,0 +1,19 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àò×î8ñé•“ƒ2J$9e3f719e-5141-4801-b25d-3626af8a2e68
+r	java:S106"+Replace this use of System.out by a logger.(ÀÂ²øÿÿÿÿ8øé•“ƒ2J$8c6a178a-706b-48e9-bf37-5387bebaf4fc
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8øé•“ƒ2J$adc30763-e91d-4729-9af9-5cdea9a446c6
+r	java:S106"+Replace this use of System.out by a logger.(ŸÀ×ïúÿÿÿÿ8ùé•“ƒ2J$853dfa1b-6ea0-46ba-b9f3-704f3d260828
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8úé•“ƒ2J$9d504f1a-aa45-46e0-8ebd-53f87019db3d
+r	java:S106"+Replace this use of System.out by a logger.(¨¿˜ÿÿÿÿÿ8ûé•“ƒ2J$1e38a411-1fe3-45bf-982b-fc1183362b9f
+a
+java:S2119'"Save and re-use this "Random".(Œ‘ ó8ÿé•“ƒ2J$2e1803a5-d79d-47e2-986b-98e6b1b111b8
+a
+java:S2119("Save and re-use this "Random".(˜ºì£8€ê•“ƒ2J$9f00dd8c-7c39-4f13-bd3b-0bc163944267
+f
+java:S2119)"Save and re-use this "Random".(ƒµÕıÿÿÿÿ8€ê•“ƒ2J$6b117d8c-9b80-4413-9214-2757e0c79515
+f
+java:S2119*"Save and re-use this "Random".(ÒŸßüÿÿÿÿ8€ê•“ƒ2J$f2e03eef-4f7f-44f0-9c9e-4bc9853f5b81
+f
+java:S2119+"Save and re-use this "Random".(ñ—¤Ëûÿÿÿÿ8€ê•“ƒ2J$98345261-957e-4f7c-a4f1-f7f717027cbd
